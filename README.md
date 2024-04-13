@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coco-Mojo
+- 👋 Hi, I’m Momo (@Coco-Mojo)
 - 👀 I’m a dog
 - I like to comment on code
 
